@@ -1,4 +1,4 @@
-# jwtSecurity
+# jwtSecurity using "H2 Console" H2 Database
 # Excel Upload API — Spring Boot + JWT + H2 Database + java17 + Gradle8.5 + Spring Boot version 3.2.2
 
 A production-ready REST API for uploading and parsing Excel files, secured with JWT tokens that expire in **30 minutes**.
